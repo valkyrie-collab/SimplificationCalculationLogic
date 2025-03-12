@@ -124,7 +124,7 @@ public class calculationOptimize {
                 i++;
                 //System.out.println();
             }
-            
+
             //doing the last part of the calculation
             numberOne = stackNumber[0];
             numberTwo = stackNumber[1];
